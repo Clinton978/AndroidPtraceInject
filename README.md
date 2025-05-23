@@ -1,4 +1,4 @@
-# Android Ptrace Inject
+Clinton6.78# Android Ptrace Inject
 
 ![](https://img.shields.io/badge/Android-Build-green)
 ![](https://img.shields.io/badge/Android%204~12-Support-green)
